@@ -1,0 +1,16 @@
+{
+"companyName": "GrunwaldLabs",
+"productName": "Protocube",
+"productVersion": "1.0",
+"dataUrl": "c4e33959910148606578ef87262bf21d.unityweb",
+"wasmCodeUrl": "9efd0bb8a4bcce8e0e099988d11779d9.unityweb",
+"wasmFrameworkUrl": "a30aa7268537ca5b33573e1ddca4d80f.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.31f1"
+}
